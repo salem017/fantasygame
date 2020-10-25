@@ -1,0 +1,37 @@
+mat-card {
+  max-width: 400px;
+  margin: 2em auto;
+  text-align: center;
+}
+.signin-content {
+  padding: 60px 1rem;
+}
+.full-width-input {
+  width: 100%;
+}
+
+.col-padding{
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-color{
+  background-color: #000000;
+}
+
+.right-color{
+  background-color: #2f3542;
+}
+.full-screen{
+  min-height: 100%;
+}
+.slogan{
+  color:white;
+}
+.full-screen{
+  min-height: 100%;
+  margin: 0;
+  padding:0;
+}
